@@ -1,6 +1,9 @@
 # dr_libs_zig
 
-Zig wrapper for [dr_libs](https://github.com/mackron/dr_libs)
+Self-contained Zig wrapper for [dr_libs](https://github.com/mackron/dr_libs)
+
+## Status
+Work in progress, PRs are welcome
 
 ## Features
 - dr_wav bindings
